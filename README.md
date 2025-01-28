@@ -1,0 +1,2 @@
+# Uncommon TypeError in Python
+This example demonstrates a less common TypeError that arises when a function expects a numerical input but receives a string.  The typical way to address this would be with type checking, error handling, or input validation.
